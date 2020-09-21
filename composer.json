@@ -12,5 +12,6 @@
             "try2beth3b3st\\otus_hw_3\\" : "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "license": "MIT" 
 }
